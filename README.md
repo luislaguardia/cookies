@@ -16,4 +16,4 @@ eyJ2ZXJ5X2F1dGgiOiJhZG1pbiJ9.Zs8iMA.FOkPNMGlGDsTY5Z3KTJmNZumCdk
 
 
 link ref
-https://blog.paradoxis.nl/defeating-flasks-session-management-65706ba9d3ce
+# https://blog.paradoxis.nl/defeating-flasks-session-management-65706ba9d3ce
