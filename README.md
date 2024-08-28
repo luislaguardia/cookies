@@ -6,8 +6,9 @@ command:
 
 `python solve.py <cookie that was set by the server>`
 
-like that..
+like that...
 
-output will be like
+output will be like;
+
 Secret key: peanut butter
 eyJ2ZXJ5X2F1dGgiOiJhZG1pbiJ9.Zs8iMA.FOkPNMGlGDsTY5Z3KTJmNZumCdk
