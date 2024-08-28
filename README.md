@@ -1,4 +1,5 @@
 # cookies
+the script is solve.py
 
 command:
 
